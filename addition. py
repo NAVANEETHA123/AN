@@ -1,0 +1,42 @@
+Python 3.6.3 (default, Oct  3 2017, 21:45:48) 
+[GCC 7.2.0] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> print("navaneetha")
+navaneetha
+>>> print("navaneetha")
+navaneetha
+>>> Print("navaneetha")
+Traceback (most recent call last):
+  File "<pyshell#2>", line 1, in <module>
+    Print("navaneetha")
+NameError: name 'Print' is not defined
+>>> print("navaneetha)
+      
+SyntaxError: EOL while scanning string literal
+>>> "navaneetha")
+SyntaxError: invalid syntax
+>>> 100+200
+300
+>>> 200-100+300
+400
+>>> 6/2
+3.0
+>>> 6//2
+3
+>>> 2/6
+0.3333333333333333
+>>> 2//6
+0
+>>> 6*3
+18
+>>> 2**4
+16
+>>> 
+===================== RESTART: /home/cs2017a127/input.py =====================
+>>> 
+>>> 
+===================== RESTART: /home/cs2017a127/input.py =====================
+enter a value :200
+enter b value :400
+600
+>>> 
